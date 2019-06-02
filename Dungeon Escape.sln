@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dungeon Escape", "Dungeon Escape.csproj", "{24DDFEAE-B504-E107-84F6-1E8E38D32345}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dungeon Escape.Plugins", "Dungeon Escape.Plugins.csproj", "{C916589D-3F59-53C4-86E5-5ADB7E07E107}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dungeon Escape.Editor.Plugins", "Dungeon Escape.Editor.Plugins.csproj", "{BDAC1BB3-0AA1-7B6D-E24D-4A9661436DF8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{24DDFEAE-B504-E107-84F6-1E8E38D32345}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24DDFEAE-B504-E107-84F6-1E8E38D32345}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24DDFEAE-B504-E107-84F6-1E8E38D32345}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24DDFEAE-B504-E107-84F6-1E8E38D32345}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C916589D-3F59-53C4-86E5-5ADB7E07E107}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C916589D-3F59-53C4-86E5-5ADB7E07E107}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C916589D-3F59-53C4-86E5-5ADB7E07E107}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C916589D-3F59-53C4-86E5-5ADB7E07E107}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BDAC1BB3-0AA1-7B6D-E24D-4A9661436DF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDAC1BB3-0AA1-7B6D-E24D-4A9661436DF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDAC1BB3-0AA1-7B6D-E24D-4A9661436DF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDAC1BB3-0AA1-7B6D-E24D-4A9661436DF8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

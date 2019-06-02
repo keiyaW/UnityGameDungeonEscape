@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: c88cfb07232c559409bf61be91118b00
+timeCreated: 1543325509
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Galiver Sans
+  fontNames:
+  - Galiver Sans
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 9976dff6dad43f1438fac0cc5202dd40, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

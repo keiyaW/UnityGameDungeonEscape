@@ -1,0 +1,664 @@
+fileFormatVersion: 2
+guid: 9a76a429b5acbda4f83a6062824848ff
+timeCreated: 1541341936
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: assetlv1sisa-01_0
+    21300002: assetlv1sisa-01_1
+    21300004: assetlv1sisa-01_2
+    21300006: assetlv1sisa-01_3
+    21300008: assetlv1sisa-01_4
+    21300010: assetlv1sisa-01_5
+    21300012: assetlv1sisa-01_6
+    21300014: assetlv1sisa-01_7
+    21300016: assetlv1sisa-01_8
+    21300018: assetlv1sisa-01_9
+    21300020: assetlv1sisa-01_10
+    21300022: assetlv1sisa-01_11
+    21300024: assetlv1sisa-01_12
+    21300026: assetlv1sisa-01_13
+    21300028: assetlv1sisa-01_14
+    21300030: assetlv1sisa-01_15
+    21300032: assetlv1sisa-01_16
+    21300034: assetlv1sisa-01_17
+    21300036: assetlv1sisa-01_18
+    21300038: assetlv1sisa-01_19
+    21300040: assetlv1sisa-01_20
+    21300042: assetlv1sisa-01_21
+    21300044: assetlv1sisa-01_22
+    21300046: assetlv1sisa-01_23
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: assetlv1sisa-01_0
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 2763
+        width: 324
+        height: 272
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 113.61971, y: 136}
+        - {x: -81.29499, y: 136}
+        - {x: -161.83826, y: 67.24797}
+        - {x: -161.83826, y: 31.79875}
+        - {x: -128.01009, y: -66.49226}
+        - {x: -5.584322, y: -135.77937}
+        - {x: 16.967793, y: -135.77937}
+        - {x: 128.11751, y: -60.04695}
+        - {x: 162, y: -13.318438}
+        - {x: 162, y: 57.579998}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: assetlv1sisa-01_1
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 2763
+        width: 324
+        height: 272
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -84.843956, y: 136}
+        - {x: -162, y: 67.24797}
+        - {x: -162, y: 30.187422}
+        - {x: -128.33733, y: -68.10359}
+        - {x: -5.9115534, y: -135.77937}
+        - {x: 15.029696, y: -135.77937}
+        - {x: 162, y: -89.05086}
+        - {x: 162, y: 65.63664}
+        - {x: 137.45546, y: 136}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: assetlv1sisa-01_2
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 2452
+        width: 604
+        height: 736
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -256.801, y: 368}
+        - {x: -301.9052, y: 331.49222}
+        - {x: -301.9052, y: 51.121117}
+        - {x: -277.74225, y: -366.21286}
+        - {x: -271.29877, y: -367.8242}
+        - {x: 281.22806, y: -367.8242}
+        - {x: 302, y: -197.0234}
+        - {x: 302, y: 350.82816}
+        - {x: 229.68036, y: 368}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: assetlv1sisa-01_3
+      rect:
+        serializedVersion: 2
+        x: 1816
+        y: 2432
+        width: 604
+        height: 737
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 129.42395, y: 368.5}
+        - {x: -158.92096, y: 368.5}
+        - {x: -282.95758, y: 325.99417}
+        - {x: -302, y: 303.43558}
+        - {x: -302, y: 63.3477}
+        - {x: -279.73587, y: -366.87692}
+        - {x: -265.23807, y: -368.48825}
+        - {x: 284.06702, y: -368.48825}
+        - {x: 302, y: -84.89449}
+        - {x: 302, y: 334.0508}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: assetlv1sisa-01_4
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 2073
+        width: 687
+        height: 177
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -332.21033, y: 88.5}
+        - {x: -343.4864, y: 85.42675}
+        - {x: -343.4864, y: -88.5}
+        - {x: 325.02274, y: -88.5}
+        - {x: 343.5, y: -77.31739}
+        - {x: 343.5, y: 77.37011}
+        - {x: 334.68793, y: 88.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: assetlv1sisa-01_5
+      rect:
+        serializedVersion: 2
+        x: 1335
+        y: 2054
+        width: 264
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128.47124, y: 29.5}
+        - {x: -131.69296, y: 18.892586}
+        - {x: -131.69296, y: -29.447258}
+        - {x: 132, y: -29.447258}
+        - {x: 132, y: 29.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: assetlv1sisa-01_6
+      rect:
+        serializedVersion: 2
+        x: 1847
+        y: 2049
+        width: 264
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -101.34176, y: 58}
+        - {x: -131.9482, y: 5.0302863}
+        - {x: -131.9482, y: -57.811512}
+        - {x: 132, y: -57.811512}
+        - {x: 132, y: -4.6376824}
+        - {x: 101.62728, y: 58}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: assetlv1sisa-01_7
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 907
+        width: 122
+        height: 702
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -61, y: -350.64157}
+        - {x: 61, y: -350.64157}
+        - {x: 61, y: -99.27439}
+        - {x: 35.3885, y: 351}
+        - {x: -35.489574, y: 351}
+        - {x: -61, y: -204.01073}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: assetlv1sisa-01_8
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 916
+        width: 122
+        height: 697
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -61, y: -348.5}
+        - {x: 61, y: -348.5}
+        - {x: 61, y: -84.63475}
+        - {x: 35.50034, y: 348.5}
+        - {x: -35.377735, y: 348.5}
+        - {x: -61, y: -94.30272}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: assetlv1sisa-01_9
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 916
+        width: 122
+        height: 697
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -60.926678, y: -348.5}
+        - {x: 61, y: -348.5}
+        - {x: 61, y: -73.35545}
+        - {x: 35.725246, y: 348.5}
+        - {x: -35.152832, y: 348.5}
+        - {x: -60.926678, y: -277.99414}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: assetlv1sisa-01_10
+      rect:
+        serializedVersion: 2
+        x: 1754
+        y: 1013
+        width: 421
+        height: 557
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -208.8395, y: 278.5}
+        - {x: -210.45036, y: 278.5}
+        - {x: -210.45036, y: -278.47946}
+        - {x: 210.5, y: -278.47946}
+        - {x: 210.5, y: 278.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: assetlv1sisa-01_11
+      rect:
+        serializedVersion: 2
+        x: 1773
+        y: 908
+        width: 107
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -53.5, y: -24.958965}
+        - {x: -0.5627804, y: -24.958965}
+        - {x: 52.595776, y: -16.902325}
+        - {x: 53.5, y: -13.679668}
+        - {x: 53.5, y: 25}
+        - {x: -3.784511, y: 25}
+        - {x: -53.5, y: 20.158222}
+      - - {x: -40.834415, y: 4.044941}
+        - {x: -39.22355, y: 2.4336128}
+        - {x: -39.22355, y: -2.4003713}
+        - {x: -40.834415, y: -0.7890433}
+      - - {x: 21.989334, y: 2.4336128}
+        - {x: 25.211065, y: 2.4336128}
+        - {x: 20.37847, y: -2.4003713}
+        - {x: 17.156738, y: -4.0116997}
+        - {x: 18.767605, y: -4.0116997}
+      - - {x: 41.319717, y: -0.7890433}
+        - {x: 41.319717, y: -2.4003713}
+        - {x: 39.708855, y: -4.0116997}
+        - {x: 41.319717, y: -2.4003713}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: assetlv1sisa-01_12
+      rect:
+        serializedVersion: 2
+        x: 1881
+        y: 918
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.7397046, y: 15}
+        - {x: -12.5, y: 15}
+        - {x: -12.5, y: -14.958975}
+        - {x: 12.5, y: -14.958975}
+        - {x: 12.5, y: 14.044931}
+        - {x: 12.5, y: 15}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: assetlv1sisa-01_13
+      rect:
+        serializedVersion: 2
+        x: 1916
+        y: 918
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.5, y: 18}
+        - {x: -17.5, y: -13.347647}
+        - {x: -14.622064, y: -18}
+        - {x: 17.5, y: -18}
+        - {x: 17.5, y: 18}
+        - {x: 17.5, y: 18}
+      - - {x: -1.7351412, y: -0.4570216}
+        - {x: -1.7351412, y: -5.291006}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: assetlv1sisa-01_14
+      rect:
+        serializedVersion: 2
+        x: 1952
+        y: 908
+        width: 64
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2.0474036, y: 24}
+        - {x: -31.78077, y: 24}
+        - {x: -31.78077, y: -14.4853325}
+        - {x: -30.169905, y: -16.09666}
+        - {x: -23.726442, y: -16.09666}
+        - {x: -18.893847, y: -12.874004}
+        - {x: -20.504711, y: -14.4853325}
+        - {x: -22.115578, y: -20.930645}
+        - {x: -18.893847, y: -24}
+        - {x: 29.432116, y: -24}
+        - {x: 32, y: -20.930645}
+        - {x: 32, y: 17.74123}
+        - {x: 24.59952, y: 22.575214}
+      - - {x: -9.228654, y: 1.6279489}
+        - {x: -7.617789, y: 4.850605}
+        - {x: -7.617789, y: 0.016620755}
+      - - {x: 19.766922, y: 4.850605}
+        - {x: 19.766922, y: 0.016620755}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: assetlv1sisa-01_15
+      rect:
+        serializedVersion: 2
+        x: 2018
+        y: 918
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.495809, y: 15}
+        - {x: -12.495809, y: -14.958975}
+        - {x: 12.5, y: -14.958975}
+        - {x: 12.5, y: 15}
+        - {x: 12.5, y: 15}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: assetlv1sisa-01_16
+      rect:
+        serializedVersion: 2
+        x: 2044
+        y: 918
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.24251, y: 15}
+        - {x: -8.24251, y: -14.958975}
+        - {x: 6.255278, y: -14.958975}
+        - {x: 8.5, y: -3.6796777}
+        - {x: 8.5, y: 15}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: assetlv1sisa-01_17
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 806
+        width: 73
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36.5, y: 25}
+        - {x: -36.5, y: -18.99998}
+        - {x: -6.0277915, y: -25}
+        - {x: 24.578651, y: -25}
+        - {x: 36.5, y: -10.943341}
+        - {x: 36.5, y: 19.671892}
+        - {x: 10.080862, y: 25}
+      - - {x: 14.913458, y: -9.332013}
+        - {x: 11.691728, y: -6.109357}
+        - {x: 13.302593, y: -14.1659975}
+        - {x: 14.913458, y: -12.554669}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: assetlv1sisa-01_18
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 808
+        width: 46
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4.3916826, y: 17.5}
+        - {x: -22.993029, y: 17.5}
+        - {x: -22.993029, y: -12.971663}
+        - {x: -21.382164, y: -17.5}
+        - {x: 20.500336, y: -17.5}
+        - {x: 23, y: -16.194319}
+        - {x: 23, y: 7.975602}
+        - {x: 20.500336, y: 16.032242}
+      - - {x: 9.224278, y: -0.081038475}
+        - {x: 9.224278, y: -4.915023}
+        - {x: 7.6134133, y: -4.915023}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: assetlv1sisa-01_19
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 808
+        width: 39
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.486368, y: 14.5}
+        - {x: -19.486368, y: -14.5}
+        - {x: 19.5, y: -14.5}
+        - {x: 19.5, y: 11.198258}
+        - {x: 17.563536, y: 14.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: assetlv1sisa-01_20
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 808
+        width: 65
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23.929914, y: 20}
+        - {x: 22.31905, y: 20}
+        - {x: 14.264722, y: 20}
+        - {x: -32.450375, y: 20}
+        - {x: -32.450375, y: -20}
+        - {x: 32.5, y: -20}
+        - {x: 32.5, y: 20}
+      - - {x: -17.952585, y: -2.4980307}
+        - {x: -16.34172, y: -4.109359}
+        - {x: -16.34172, y: -7.332015}
+        - {x: -17.952585, y: -7.332015}
+      - - {x: 9.432126, y: -2.4980307}
+        - {x: 11.042992, y: -4.109359}
+        - {x: 11.042992, y: -7.332015}
+        - {x: 9.432126, y: -7.332015}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: assetlv1sisa-01_21
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 798
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 19.5}
+        - {x: -14, y: -19.5}
+        - {x: 3.6980884, y: -19.5}
+        - {x: 14, y: -10.081029}
+        - {x: 14, y: 19.5}
+      - - {x: 0.47635758, y: 7.6435804}
+        - {x: 2.087223, y: 2.809596}
+        - {x: 0.47635758, y: 2.809596}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: assetlv1sisa-01_22
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 808
+        width: 79
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39.5, y: 13.615251}
+        - {x: -39.5, y: -16.999983}
+        - {x: -36.569122, y: -20}
+        - {x: 39.5, y: -20}
+        - {x: 39.5, y: 20}
+        - {x: -14.017006, y: 20}
+        - {x: -30.12566, y: 18.449234}
+      - - {x: -5.9626794, y: -0.88670254}
+        - {x: -9.18441, y: -2.4980307}
+        - {x: -14.017006, y: -7.332015}
+        - {x: -12.406141, y: -12.165999}
+      - - {x: 10.145974, y: -2.4980307}
+        - {x: 8.535109, y: -4.109359}
+        - {x: 6.9242435, y: -7.332015}
+        - {x: 5.313378, y: -7.332015}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: assetlv1sisa-01_23
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 808
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.75488, y: 14.5}
+        - {x: -12.75488, y: -14.5}
+        - {x: 13, y: -14.5}
+        - {x: 13, y: 14.5}
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

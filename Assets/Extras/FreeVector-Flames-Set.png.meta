@@ -1,0 +1,394 @@
+fileFormatVersion: 2
+guid: 6a4adda74aa259247971e9ace00ed6f9
+timeCreated: 1542708945
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: FreeVector-Flames-Set_0
+    21300002: FreeVector-Flames-Set_1
+    21300004: FreeVector-Flames-Set_2
+    21300006: FreeVector-Flames-Set_3
+    21300008: FreeVector-Flames-Set_4
+    21300010: FreeVector-Flames-Set_5
+    21300012: FreeVector-Flames-Set_6
+    21300014: FreeVector-Flames-Set_7
+    21300016: FreeVector-Flames-Set_8
+    21300018: FreeVector-Flames-Set_9
+    21300020: FreeVector-Flames-Set_10
+    21300022: FreeVector-Flames-Set_11
+    21300024: FreeVector-Flames-Set_12
+    21300026: FreeVector-Flames-Set_13
+    21300028: FreeVector-Flames-Set_14
+    21300030: FreeVector-Flames-Set_15
+    21300032: FreeVector-Flames-Set_16
+    21300034: FreeVector-Flames-Set_17
+    21300036: FreeVector-Flames-Set_18
+    21300038: FreeVector-Flames-Set_19
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FreeVector-Flames-Set_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2443
+        width: 414
+        height: 610
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FreeVector-Flames-Set_1
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 2456
+        width: 363
+        height: 578
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FreeVector-Flames-Set_2
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 2456
+        width: 421
+        height: 578
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FreeVector-Flames-Set_3
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 1842
+        width: 363
+        height: 481
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FreeVector-Flames-Set_4
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 1977
+        width: 170
+        height: 443
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FreeVector-Flames-Set_5
+      rect:
+        serializedVersion: 2
+        x: 1197
+        y: 1842
+        width: 265
+        height: 578
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FreeVector-Flames-Set_6
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 2086
+        width: 48
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FreeVector-Flames-Set_7
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 1228
+        width: 363
+        height: 578
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FreeVector-Flames-Set_8
+      rect:
+        serializedVersion: 2
+        x: 1197
+        y: 1228
+        width: 283
+        height: 578
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FreeVector-Flames-Set_9
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 748
+        width: 74
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FreeVector-Flames-Set_10
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 716
+        width: 89
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FreeVector-Flames-Set_11
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 761
+        width: 67
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FreeVector-Flames-Set_12
+      rect:
+        serializedVersion: 2
+        x: 1197
+        y: 773
+        width: 283
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FreeVector-Flames-Set_13
+      rect:
+        serializedVersion: 2
+        x: 1274
+        y: 994
+        width: 182
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FreeVector-Flames-Set_14
+      rect:
+        serializedVersion: 2
+        x: 1347
+        y: 742
+        width: 115
+        height: 296
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FreeVector-Flames-Set_15
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 613
+        width: 362
+        height: 327
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FreeVector-Flames-Set_16
+      rect:
+        serializedVersion: 2
+        x: 1233
+        y: 613
+        width: 141
+        height: 327
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FreeVector-Flames-Set_17
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 0
+        width: 363
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FreeVector-Flames-Set_18
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 139
+        width: 300
+        height: 439
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FreeVector-Flames-Set_19
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 0
+        width: 421
+        height: 578
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

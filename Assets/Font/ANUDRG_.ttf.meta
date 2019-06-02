@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: a99659990d3edca4fb919a26e4f52171
+timeCreated: 1543501622
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: AnuDaw
+  fontNames:
+  - AnuDaw
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: a6778398bac041a4888a0ca64ec32e6f, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

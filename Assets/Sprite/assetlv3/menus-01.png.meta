@@ -1,0 +1,844 @@
+fileFormatVersion: 2
+guid: 5f346c3a164458544aa95773c2a8b7a6
+timeCreated: 1543237813
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: menus-01_0
+    21300002: menus-01_1
+    21300004: menus-01_2
+    21300006: menus-01_3
+    21300008: menus-01_4
+    21300010: menus-01_5
+    21300012: menus-01_6
+    21300014: menus-01_7
+    21300016: menus-01_8
+    21300018: menus-01_9
+    21300020: menus-01_10
+    21300022: menus-01_11
+    21300024: menus-01_12
+    21300026: menus-01_13
+    21300028: menus-01_14
+    21300030: menus-01_15
+    21300032: menus-01_16
+    21300034: menus-01_17
+    21300036: menus-01_18
+    21300038: menus-01_19
+    21300040: menus-01_20
+    21300042: menus-01_21
+    21300044: menus-01_22
+    21300046: menus-01_23
+    21300048: menus-01_24
+    21300050: menus-01_25
+    21300052: menus-01_26
+    21300054: menus-01_27
+    21300056: menus-01_28
+    21300058: menus-01_29
+    21300060: menus-01_30
+    21300062: menus-01_31
+    21300064: menus-01_32
+    21300066: menus-01_33
+    21300068: menus-01_34
+    21300070: menus-01_35
+    21300072: menus-01_36
+    21300074: menus-01_37
+    21300076: menus-01_38
+    21300078: menus-01_39
+    21300080: menus-01_40
+    21300082: menus-01_41
+    21300084: menus-01_42
+    21300086: menus-01_43
+    21300088: menus-01_44
+    21300090: menus-01_45
+    21300092: menus-01_46
+    21300094: menus-01_47
+    21300096: menus-01_48
+    21300098: menus-01_49
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: menus-01_0
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 6834
+        width: 1320
+        height: 847
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: menus-01_1
+      rect:
+        serializedVersion: 2
+        x: 1692
+        y: 6819
+        width: 1319
+        height: 847
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: menus-01_2
+      rect:
+        serializedVersion: 2
+        x: 3187
+        y: 6819
+        width: 1319
+        height: 847
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: menus-01_3
+      rect:
+        serializedVersion: 2
+        x: 4976
+        y: 7021
+        width: 594
+        height: 504
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: menus-01_4
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 6629
+        width: 69
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: menus-01_5
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 6629
+        width: 68
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: menus-01_6
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 6629
+        width: 68
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: menus-01_7
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 6629
+        width: 61
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: menus-01_8
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 6629
+        width: 55
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: menus-01_9
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 6629
+        width: 61
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: menus-01_10
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 6629
+        width: 72
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: menus-01_11
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 6629
+        width: 130
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: menus-01_12
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 6629
+        width: 68
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: menus-01_13
+      rect:
+        serializedVersion: 2
+        x: 1890
+        y: 6625
+        width: 133
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: menus-01_14
+      rect:
+        serializedVersion: 2
+        x: 2024
+        y: 6621
+        width: 68
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: menus-01_15
+      rect:
+        serializedVersion: 2
+        x: 2096
+        y: 6621
+        width: 65
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: menus-01_16
+      rect:
+        serializedVersion: 2
+        x: 2168
+        y: 6625
+        width: 77
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: menus-01_17
+      rect:
+        serializedVersion: 2
+        x: 2252
+        y: 6625
+        width: 61
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: menus-01_18
+      rect:
+        serializedVersion: 2
+        x: 2344
+        y: 6621
+        width: 65
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: menus-01_19
+      rect:
+        serializedVersion: 2
+        x: 2412
+        y: 6625
+        width: 61
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: menus-01_20
+      rect:
+        serializedVersion: 2
+        x: 2477
+        y: 6625
+        width: 122
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: menus-01_21
+      rect:
+        serializedVersion: 2
+        x: 2597
+        y: 6621
+        width: 201
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: menus-01_22
+      rect:
+        serializedVersion: 2
+        x: 2801
+        y: 6625
+        width: 69
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: menus-01_23
+      rect:
+        serializedVersion: 2
+        x: 3610
+        y: 6609
+        width: 172
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: menus-01_24
+      rect:
+        serializedVersion: 2
+        x: 3789
+        y: 6609
+        width: 67
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: menus-01_25
+      rect:
+        serializedVersion: 2
+        x: 3889
+        y: 6609
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: menus-01_26
+      rect:
+        serializedVersion: 2
+        x: 3972
+        y: 6609
+        width: 65
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: menus-01_27
+      rect:
+        serializedVersion: 2
+        x: 4041
+        y: 6609
+        width: 65
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: menus-01_28
+      rect:
+        serializedVersion: 2
+        x: 4113
+        y: 6609
+        width: 65
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: menus-01_29
+      rect:
+        serializedVersion: 2
+        x: 3629
+        y: 6487
+        width: 69
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: menus-01_30
+      rect:
+        serializedVersion: 2
+        x: 3702
+        y: 6488
+        width: 61
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: menus-01_31
+      rect:
+        serializedVersion: 2
+        x: 3766
+        y: 6488
+        width: 57
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: menus-01_32
+      rect:
+        serializedVersion: 2
+        x: 3824
+        y: 6488
+        width: 61
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: menus-01_33
+      rect:
+        serializedVersion: 2
+        x: 3885
+        y: 6487
+        width: 202
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: menus-01_34
+      rect:
+        serializedVersion: 2
+        x: 4091
+        y: 6488
+        width: 68
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: menus-01_35
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 5755
+        width: 1178
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: menus-01_36
+      rect:
+        serializedVersion: 2
+        x: 1734
+        y: 5743
+        width: 1174
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: menus-01_37
+      rect:
+        serializedVersion: 2
+        x: 3194
+        y: 5320
+        width: 1316
+        height: 847
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: menus-01_38
+      rect:
+        serializedVersion: 2
+        x: 5277
+        y: 5450
+        width: 2181
+        height: 934
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: menus-01_39
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 5354
+        width: 1159
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: menus-01_40
+      rect:
+        serializedVersion: 2
+        x: 1734
+        y: 5332
+        width: 1162
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: menus-01_41
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 4878
+        width: 1178
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: menus-01_42
+      rect:
+        serializedVersion: 2
+        x: 1791
+        y: 4870
+        width: 1178
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: menus-01_43
+      rect:
+        serializedVersion: 2
+        x: 3252
+        y: 4874
+        width: 1174
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: menus-01_44
+      rect:
+        serializedVersion: 2
+        x: 5468
+        y: 4088
+        width: 1799
+        height: 969
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: menus-01_45
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 4462
+        width: 1160
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: menus-01_46
+      rect:
+        serializedVersion: 2
+        x: 1798
+        y: 4458
+        width: 1160
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: menus-01_47
+      rect:
+        serializedVersion: 2
+        x: 3248
+        y: 4431
+        width: 1163
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: menus-01_48
+      rect:
+        serializedVersion: 2
+        x: 2565
+        y: 2157
+        width: 2490
+        height: 1190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: menus-01_49
+      rect:
+        serializedVersion: 2
+        x: 3164
+        y: 963
+        width: 1319
+        height: 847
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
